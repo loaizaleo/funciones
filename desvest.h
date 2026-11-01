@@ -1,5 +1,5 @@
-#ifndef SUMATORIA_H
-#define SUMATORIA_H
+#ifndef DESVEST_H
+#define DESVEST_H
 using namespace std;
 void leer_datos(float y[80]);
 float desviacion(float x[80]);
@@ -29,4 +29,4 @@ float desviacion(float x[]){
 	return desvest;
 	}
 
-#endif // SUMATORIA_H
+#endif // DESVEST_H

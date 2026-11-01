@@ -41,7 +41,6 @@ sigma= +-8.93971
 
 - Siempre lee exactamente **80 datos** de `pulso.dat`, que debe estar en la carpeta desde donde se ejecuta.
 - Aunque la descripción original menciona clases, este repositorio usa **solo funciones**. El ejemplo con clases está en [clase](https://github.com/loaizaleo/clase).
-- La guarda del encabezado se llama `SUMATORIA_H`; sería más claro llamarla `DESVEST_H`, como el archivo.
 
 ## Repositorios relacionados
 
